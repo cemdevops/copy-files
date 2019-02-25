@@ -1,0 +1,6 @@
+# IDEs
+.idea
+
+# files
+/data/*.*
+/reports/*.*
